@@ -1,1 +1,2 @@
-# Model_free_integral_reinforcement_learning
+# README.md
+*A parallel-control approach using Model-Free Integral Reinforcement Learning (IRL)*
